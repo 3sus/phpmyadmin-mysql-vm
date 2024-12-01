@@ -7,7 +7,8 @@ How to run MySQL on an Ubuntu Virtual Machine (NAT configuration) and access it 
   sudo apt install mysql-server && sudo apt install phpmyadmin
   ```
 2.[Network configuration through VirtualBox's settings UI]  
-  Forward the host's port 8080 to the guest's port 80. Unplug and replug the network cable.
+    
+  Forward the *host's* port **8080** to the *guest's* port **80**. Unplug and replug the network cable.
 
 3.[If UFW is enabled on the VM]  
   ```bash
