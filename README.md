@@ -38,9 +38,14 @@ How to run MySQL on an Ubuntu Virtual Machine (NAT configuration) and access it 
   Open your browser and visit:
   http://localhost:8080/phpmyadmin/
 
-Notes:
-  Replace 'your_new_password' with a strong password you choose.
+## Notes
 
-  Make sure your VM network is set to NAT for port forwarding to work.
+- Replace 'your_new_password' with a strong password you choose.
+- Make sure your VM network is set to NAT for port forwarding to work.
+- This setup assumes Apache is your web server.
 
-  This setup assumes Apache is your web server.
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
