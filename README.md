@@ -1,5 +1,3 @@
-#phpMyAdmin-MySQL-VM
-
 How to run MySQL on an Ubuntu Virtual Machine (NAT configuration) and access it through phpMyAdmin on the host OS
 ----------------------------
 1.[Install MySQL and phpMyAdmin on the Ubuntu Server VM]  
